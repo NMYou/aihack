@@ -22,7 +22,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
         //echo "Data inserted into Database";
         echo '<script>alert("Amount Transfered Successfully")</script>';
 
-        header("Location:rewards.html"); 
+        header("Location:rewards.php"); 
         }
         else
         {
@@ -44,7 +44,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
         //echo "Data inserted into Database";
         echo '<script>alert("Amount Transfered Successfully")</script>';
 
-        header("Location:rewards.html"); 
+        header("Location:rewards.php"); 
         }
         else
         {
@@ -63,7 +63,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
         //echo "Data inserted into Database";
         echo '<script>alert("Amount Transfered Successfully")</script>';
 
-        header("Location:rewards.html"); 
+        header("Location:rewards.php"); 
         }
         else
         {

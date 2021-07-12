@@ -46,7 +46,7 @@
     </div>
     <script>
         function myFunction() {
-          window.location.href="Donordashboard.html";  
+          window.location.href="Donordashboard.php";  
         }
       </script>
 </body>
