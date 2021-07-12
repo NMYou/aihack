@@ -16,7 +16,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
 	if(mysqli_num_rows($result) == 1){
 
 		echo '<script>alert("Successfully Login")</script>';
-		header("Location:Donordash.php");
+		header("Location:Donordashboard.php");
 	}
 	else
 	{	
