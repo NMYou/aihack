@@ -21,7 +21,7 @@
               <a class="navbar-brand" href="" ></a>
               <a class="navbar-brand"></a>
               <li class="nav-item active">
-                <a class="nav-link" href="Index.php" style="padding-left: 50%; padding-right: 1%;">Logout <span class="sr-only">(current)</span></a>
+                <a class="nav-link" href="index.php" style="padding-left: 50%; padding-right: 1%;">Logout <span class="sr-only">(current)</span></a>
               </li>
             </ul>
           </div>
