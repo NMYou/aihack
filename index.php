@@ -93,13 +93,13 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
 	</nav>
 
 	<!-- home section start -->
-	<section class="home" id="home">
+	<section class="home" id="home" style="background-image: url('BGimage.png');">
 		<div class="max-width">
 			<div class="home-content">
 				
 				<div class="w3-container w3-animate-left">
 				<div class="aligncenter">
-				<img src="img/DOTXHACK.png" alt="flowchart" width="850px" height="600px">
+				<img src="img/DOTXHACK.png" alt="flowchart" width="850px" height="400px">
 				</div>
 					<a href="#about">Know More</a>
 				</div>
