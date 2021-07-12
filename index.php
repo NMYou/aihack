@@ -93,7 +93,7 @@ if($_SERVER['REQUEST_METHOD'] == "POST" and isset($_POST['submitdon'])){
 	</nav>
 
 	<!-- home section start -->
-	<section class="home" id="home" style="background-image: url('BGimage.png');">
+	<section class="home" id="home" style="background-image: url('img/BGimage.png');">
 		<div class="max-width">
 			<div class="home-content">
 				
